@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="./icons/toggle_notch.png" alt="toggle_notch" width=70 />  
+</p>
+
 # Toggle Notch - An Alfred workflow
 
 Turn the [notch](https://www.theverge.com/2021/10/18/22732912/apple-macbook-pro-notch-display) on Apple Silicon based MacBook on or off quickly. This workflow is essentially a wrapper of an apple shortcut to invoke [Say No to Notch](https://apps.apple.com/app/say-no-to-notch/id1639306886)'s shortcut component.
